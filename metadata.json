@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix LUMINA: Prismatic Light Puzzle",
+  "description": "An atmospheric optical laser and refraction puzzle game. Direct chromatic light beams using precision mirrors, prisms, color filters, and quantum portals to energize ancient crystal sanctuaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
